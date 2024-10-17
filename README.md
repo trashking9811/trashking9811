@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @trashking9811
+- 👀 I’m interested in software development, machine learning and network engineering
+- 🌱 I’m currently learning data science, machine learning, cloud computing, and game development
+- 💞️ I’m looking to collaborate on absolutely anything for junior developers
+- 📫 How to reach me: ivan.alcantar@alumnos.udg.mx
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I was born on Christmas
